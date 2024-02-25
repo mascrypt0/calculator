@@ -1,11 +1,11 @@
 # Scientific Python Calculator
 
-Scientific Python Calculator (scipy_calculator) is a library for doing mathematics computation. It works similar to a calculator.
+Scientific Python Calculator is a library for doing mathematics computation. It works similar to a calculator.
 
 :raised_hands: This is my first python package. It will be improved over time. Feel free to contribute to this beautiful work of art.
 
 ## Installation
-:warning: scipy_calculator is only tested with python 3. 
+:warning: only tested with python 3. 
 
 **Installation via PYPI**
 ```sh
@@ -14,7 +14,7 @@ $ pip install scipy-calculator
 **Installation via Github**
 this is for the stable released version
 ```sh
-$ pip install git+https://github.com/komus/scipy_calculator
+$ pip install git+https://github.com/mascrypt0/calculator
 ```
 
 scipy_calculator uses multipledispatch dependency and pytest for automated test
